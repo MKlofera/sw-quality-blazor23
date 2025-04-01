@@ -1,0 +1,1 @@
+/Users/mklofera/personal/areas/school/Muni/sw-quality/test3/BlazorApp2/BlazorApp2/bin/Release/net9.0/publish/web.config
